@@ -12,7 +12,7 @@ Click on 'IT File' to open the import table file.
 'Do it' show save dialog windows, and save a new exe.
 
 This tools doesn't modify import table offset in PE Header directory.
-You have to do it !
+You have to do it (button near import table address) !
 
 History:
 V1.0    First release.
