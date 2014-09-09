@@ -1,0 +1,16 @@
+#include "\masm32\include\resource.h"
+#include <Res\IT_ADDDlg.rc>
+
+#define IDC_OPEN                                       3000
+#define IDC_EXIT                                       3001
+#define IDC_FILENAME                                       3002
+#define IDC_FILESIZE                                       3003
+#define IDC_NBSECTION                                       3004
+#define IDC_IT                                       3005
+#define IDC_ITNAME                                       3006
+#define IDC_ITSIZE                                       3007
+#define IDC_DOIT                                       3008
+#define IDC_RAWSIZE                                       3009
+
+#define IDC_STATIC                                     -1
+1 ICON MOVEABLE PURE LOADONCALL DISCARDABLE "MAINICON.ICO"
